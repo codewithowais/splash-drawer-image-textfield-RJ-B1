@@ -62,7 +62,7 @@ class HomeScreen extends StatelessWidget {
             UserAccountsDrawerHeader(
               currentAccountPicture: CircleAvatar(
                 backgroundImage: NetworkImage(
-                    "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg"),
+                    "https://avatars.githubusercontent.com/u/62741318?v=4"),
               ),
               accountName: Text("Codewithowais"),
               accountEmail: Text("codewithowais@gmail.com"),
